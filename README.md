@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Afreen
-- 👀 I’m interested in Web developement and programming
-- 🌱 I’m currently learning web developement
+- 👀 Into in Python
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me shaika0786@gmail.com
 
